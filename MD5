@@ -1,0 +1,16 @@
+d93482b9f69493d5e9a40d7852e47c55 *DESCRIPTION
+f860b733ccebea0d3f7ecae9276e28e9 *NAMESPACE
+a6251b06c7f5508cbfba27afd7b8e9c0 *R/KneeArrow.R
+0674bd262f4ffa6832ecbc3a579b4f3d *README.md
+1674423c254af931914c379dad7e1cd1 *build/vignette.rds
+4bd29ec3ad0a6a28002903ab2c25054a *inst/doc/Example.R
+c460f6721c8996a3f0946e0068201798 *inst/doc/Example.Rmd
+fb2851928079df3392c83036ff9d9690 *inst/doc/Example.html
+81a760d9042da1f25be84ce7211ae7f0 *man/derivative.Rd
+3d05c990cae4d79bc5acb7a24303697f *man/findCutoff.Rd
+91fe9e9c6343b2bfbb237a06f8bfbd06 *man/findCutoffCurvature.Rd
+b093edd10404b8944c3827759ff0b2a4 *man/findCutoffFirstDerivative.Rd
+45d56cee4dbf1833ec1e308e9d7042bd *man/inverse.Rd
+4c78a3d6b573059c65f0eacee97e5fe0 *tests/testthat.R
+f02749fd4f3f746250f09147e2510738 *tests/testthat/test.R
+c460f6721c8996a3f0946e0068201798 *vignettes/Example.Rmd
